@@ -1,0 +1,18 @@
+account id,type,amount,time,final balance,saldo,sum of income,user name
+1,expense,-20,2020-08-28T21:15:31,2680,-505,520,Igor Yakipov
+1,expense,-45,2020-08-28T21:15:48,2680,-505,520,Igor Yakipov
+1,expense,-100,2020-08-29T16:23:45,2680,-505,520,Igor Yakipov
+1,expense,-100,2020-08-29T16:29:08,2680,-505,520,Igor Yakipov
+1,expense,-200,2020-08-29T16:40:45,2680,-505,520,Igor Yakipov
+1,expense,-200,2020-08-29T16:41:15,2680,-505,520,Igor Yakipov
+1,expense,-200,2020-08-29T16:43:08,2680,-505,520,Igor Yakipov
+1,expense,-100,2020-08-29T16:58:35,2680,-505,520,Igor Yakipov
+1,income,100,2020-08-29T17:11:40,2680,-505,520,Igor Yakipov
+1,income,100,2020-08-29T17:12:16,2680,-505,520,Igor Yakipov
+1,income,100,2020-08-29T17:42:08,2680,-505,520,Igor Yakipov
+1,income,100,2020-08-29T17:47:48,2680,-505,520,Igor Yakipov
+1,income,100,2020-08-29T17:50:45,2680,-505,520,Igor Yakipov
+1,income,20,2020-08-30T14:00:06,2680,-505,520,Igor Yakipov
+1,expense,-20,2020-08-30T14:07:28,2680,-505,520,Igor Yakipov
+1,expense,-20,2020-08-30T14:09:16,2680,-505,520,Igor Yakipov
+1,expense,-20,2020-08-30T14:09:43,2680,-505,520,Igor Yakipov

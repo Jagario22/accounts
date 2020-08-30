@@ -1,0 +1,2 @@
+2020-08-30 14:29:16,377 INFO [main] c.n.m.m.h.c.AccountController [AccountController.java : 28] Username Igor Yakipov is putting 20 in the account with id 1
+2020-08-30 14:29:16,404 INFO [main] c.n.m.m.h.OperationMaker [OperationMaker.java : 49] Username Igor Yakipov with account id 1 made income operation with amount 20 and categories [интернет]
